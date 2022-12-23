@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_BaiTap1</string>
+    <string name="dialog_title">Message</string>
+    <string name="dialog_content">This a project created by Tuh,Vinh,Luong,Tuan.Click below to visit our website</string>
+</resources>
